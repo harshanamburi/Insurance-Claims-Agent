@@ -1,0 +1,27 @@
+FIRST NOTICE OF LOSS (FNOL)
+
+Policy Number: POL-2024-001234
+Policyholder Name: John Smith
+Effective Dates: 01/01/2023 - 12/31/2025
+
+INCIDENT INFORMATION
+Date: 03/15/2024
+Time: 2:30 PM
+Location: 123 Main Street, Springfield, IL 62701
+Description: Vehicle collision occurred at intersection. Vehicle was struck on the right side by another vehicle running a red light. Vehicle is a 2020 Honda Accord. Damage includes dented right door, broken window, and damaged bumper.
+
+INVOLVED PARTIES
+Claimant: John Smith
+Third Party: Michael Johnson, 2019 Toyota Camry
+Contact Email: john.smith@email.com
+Contact Phone: (217) 555-0123
+
+ASSET DETAILS
+Asset Type: Vehicle
+Asset ID: VIN12345ABCDE67890
+Estimated Damage: $18,500
+
+CLAIM INFORMATION
+Claim Type: AUTO
+Attachments: Police Report, Photos, Repair Estimate
+Initial Estimate: $18,500
