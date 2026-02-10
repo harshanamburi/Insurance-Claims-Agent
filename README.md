@@ -154,7 +154,7 @@ mvn clean install
 mvn spring-boot:run
 
 🧪 Sample CURL Test
-curl -X POST http://localhost:8080/api/v1/claims/process \
+curl -X POST http://localhost:8081/api/v1/claims/process \
 -H "Content-Type: application/json" \
 -d '{
   "documentType": "TXT",
